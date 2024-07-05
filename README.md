@@ -6,9 +6,9 @@ Create your own honeypot token using our step to step guide. We are a team of cr
 
 Only for research and testing, don’t try to missuse using this method.
 
-Website (How to Create Honeypot Token)[https://howtocreatehoneypottoken.com] provide valuable resources and guides on how to create and manage tokens effectively offering insights into token deployment, liquidity provision, and safeguarding against potential risks associated with honeypot tokens and similar projects.
+Website [How to Create Honeypot Token](https://howtocreatehoneypottoken.com) provide valuable resources and guides on create honeypot token and manage tokens effectively offering insights into token deployment, liquidity provision, and safeguarding against potential risks associated with honeypot tokens and similar projects.
 
-Step to Step guide to create a honeypot token :- https://howtocreatehoneypottoken.com/how-to-create-honeypot-token/
+Step to Step guide to create honeypot token :- [Honeypot Token](https://howtocreatehoneypottoken.com/how-to-create-honeypot-token/)
 
 Honeypot Token Code :- https://howtocreatehoneypottoken.com/honeypot-token-code/
 
