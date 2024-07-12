@@ -2,7 +2,7 @@
 
 **Step By Step Guide "How to Create Honeypot Token"**
 
-Create your own honeypot token using our step to step guide. We are a team of crypto developers engaged in research in this area
+Create your own honeypot token using our step to step guide. We are a team of developers engaged in research in this area
 
 Only for research and testing, don’t try to missuse using this method.
 
