@@ -1,6 +1,6 @@
-# How-to-create-Honeypot-Token
+# Create-Honeypot-Token
 
-**Step By Step Guide "How to Create Honeypot Token"**
+**Step By Step Guide "Create Honeypot Token"**
 
 Create your own honeypot token using our step to step guide. We are a team of developers engaged in research in this area
 
